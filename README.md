@@ -7,3 +7,18 @@ This program is made in accordance with Allegro's internship requirements. It's 
 - Java 14
 - Windows 10(probably)
 ### Installing
+- Simply download this repository and unzip it to the folder of your choice.
+### Executing program
+- Run cmd.exe as admin.
+- Use cd command with path to the folder with file allegro.project-0.0.1-SNAPSHOT.jar. For example:
+`cd C:\Users\your_username\Desktop\githubuserrepos`
+- After moving to this folder, type: `java -jar allegro.project-0.0.1-SNAPSHOT.jar'
+## Notes
+GitHub may block the connection for about an hour if the query is too frequent or too big.
+## Authors
+Jan Wojciech Kruk
+[@jwk99](https://github.com/jwk99)
+## Version history
+* 0.0.1 - initial release
+## Future ideas
+* not many right now
