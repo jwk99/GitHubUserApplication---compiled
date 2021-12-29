@@ -12,7 +12,7 @@ This program is made in accordance with Allegro's internship requirements. It's 
 - Run cmd.exe as admin.
 - Use cd command with path to the folder with file allegro.project-0.0.1-SNAPSHOT.jar. For example:
 `cd C:\Users\your_username\Desktop\githubuserrepos`
-- After moving to this folder, type: `java -jar allegro.project-0.0.1-SNAPSHOT.jar'
+- After moving to this folder, type: `java -jar allegro.project-0.0.1-SNAPSHOT.jar`
 ## Notes
 GitHub may block the connection for about an hour if the query is too frequent or too big.
 ## Authors
