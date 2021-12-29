@@ -5,5 +5,6 @@ This program is made in accordance with Allegro's internship requirements. It's 
 ## Getting started
 ### Dependencies
 *Java 14
+
 *Windows 10 (probably)
 ### Installing
