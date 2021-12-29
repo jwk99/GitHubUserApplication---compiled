@@ -21,4 +21,5 @@ Jan Wojciech Kruk
 ## Version history
 * 0.0.1 - initial release
 ## Future ideas
-* not many right now
+* simple UI
+* work on authentication (if possible) to eliminate problems with GitHub's rate limit
