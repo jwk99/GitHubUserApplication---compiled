@@ -1,7 +1,7 @@
 # GitHubUserApplication
 Program to browse user repos.
 ## Description
-This program is made in accordance with Allegro's internship requirements. It's purpose is to: list repositories and stars of chosen user, sum stars of all repositories owned by given user and to list languages used by user and count amount of bytes of code in these languages.
+This program is made in accordance with Allegro's internship requirements. It's purpose is to: list repositories and stars of chosen user, sum stars of all repositories owned by given user and to list languages used by user and count bytes of code in these languages.
 ## Getting started
 ### Dependencies
 - Java 14
@@ -17,7 +17,7 @@ This program is made in accordance with Allegro's internship requirements. It's 
 This program has 3 simple functions that were mentioned in the description. All of following commands have to be typed in the address bar:
 - to list repositories and stars for chosen user, type `127.0.0.1:8080/githubtest/*user_name*/repos`
 - to obtain sum of stars of all repositories owned by given user type `127.0.0.1:8080/githubtest/*user_name*/totalstars`
-- to list languages used by user and count amount of bytes of code in these languages type `127.0.0.1:8080/githubtest/*user_name*/languages`
+- to list languages used by user and count all of bytes of code in these languages type `127.0.0.1:8080/githubtest/*user_name*/languages`
 ## Notes
 GitHub may block the connection for about an hour if the query is too frequent or too big. If this happens, page won't load and soon after it the browser will display error code 500.
 ## Authors
